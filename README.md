@@ -1,5 +1,5 @@
 # Amazon-Product-Recommendation-System
-Built a recommendation system that recommends products to Amazon customers based on their review history using Sci-kit
+Built a recommendation system that recommends products to Amazon customers based on their review history using Scikit-learn, Pandas, and LightFM.
 
 ## Note
 The training, test dataset and the saved pickle files for the model reside on a GCP server and are too large to be uploaded onto GitHub (> 200 MB).
