@@ -14,19 +14,19 @@ The training, test dataset and the saved pickle files for the model reside on a 
 
 ---
 
-## `2. exploratory_data_analysis.ipynb`
+## 2. `exploratory_data_analysis.ipynb`
 - Analyzes **6M+ users** and **2.9M products** across 14 categories  
 - Plots **user behavior patterns** and **product characteristics**  
 
 ---
 
-## `3. popularity_model.ipynb`
+## 3. `popularity_model.ipynb`
 - Implements a **popularity-based recommender** using review counts and ratings  
 - Serves as a **baseline** with a **0.38% hit rate** across categories  
 
 ---
 
-## `4. matrix_factorization_model.ipynb`
+## 4. `matrix_factorization_model.ipynb`
 - Implements **Alternating Least Squares (ALS)** collaborative filtering via the Implicit library  
 - Handles sparsity using **confidence weighting**  
 - Evaluates performance on **known users/products**  
@@ -34,7 +34,7 @@ The training, test dataset and the saved pickle files for the model reside on a 
 
 ---
 
-## `5. hybrid_matrix_factorization_model.ipynb`
+## 5. `hybrid_matrix_factorization_model.ipynb`
 - Integrates **collaborative filtering** with **content-based features**  
 - Incorporates product metadata (**categories, price bins, rating bins**)  
 - Uses **LightFM** for hybrid matrix factorization  
