@@ -6,7 +6,7 @@ The training, test dataset and the saved pickle files for the model reside on a 
 
 # Notebook Order
 
-## `1. data_loading.ipynb`
+## 1. `data_loading.ipynb`
 - Loads compressed **CSV/JSONL** files from Amazon reviews dataset  
 - Processes user interactions (**ratings, timestamps, purchase history**)  
 - Extracts product metadata (**titles, prices, ratings, store details**)  
