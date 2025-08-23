@@ -1,5 +1,5 @@
 # Amazon-Product-Recommendation-System
-Built a recommendation system that recommends products to Amazon customers based on their review history using **Scikit-learn**, **Pandas**, and **LightFM**.
+I built a recommendation engine that recommends products to Amazon customers based on their review history using **Scikit-learn**, **Pandas**, and **LightFM**. I wanted to go a step beyond pure predictive models and explore techniques to understand customer preferences and trends, a challenge that every company faces.
 
 ## Note
 The training, test dataset and the saved pickle files for the model reside on a GCP server and are too large to be uploaded onto GitHub (> 200 MB).
